@@ -1,2 +1,2 @@
-# Clase4Sura
-Condicionales y ciclos con Python
+# Daniela Martinez Garcia
+##Programar con Python
